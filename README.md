@@ -9,9 +9,6 @@ Go Micro 是一个分布式系统开发框架
 
 ## 安装
 ```
-# go get github.com/micro/micro
-go get github.com/micro/micro/v3
-
 # go-micro v3 版本
 go get github.com/asim/go-micro
 ```
